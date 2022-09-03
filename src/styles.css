@@ -3,3 +3,7 @@ h1 {
   font-size: 90px;
   margin: 50 auto;
 }
+container {
+  display: block;
+  margin-top: 50px;
+}
