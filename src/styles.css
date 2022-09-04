@@ -9,6 +9,11 @@ body {
   background-image: url("images/31.jpg");
   background-size: cover;
 }
+footer {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
 
 @media (max-width: 576px) {
   h1 {
@@ -20,5 +25,8 @@ body {
     max-width: 100%;
     display: block;
     margin: 10px auto;
+  }
+  .background-img {
+    min-height: 100%;
   }
 }
