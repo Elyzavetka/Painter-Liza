@@ -14,6 +14,12 @@ footer {
   margin: 0 auto;
   text-align: center;
 }
+h2 {
+  text-align: center;
+  font-size: 18px;
+  padding: 10px 100px;
+  margin: 20 auto;
+}
 
 @media (max-width: 576px) {
   h1 {
@@ -26,7 +32,7 @@ footer {
     display: block;
     margin: 10px auto;
   }
-  background-image: url("images/31.jpg");
+
   .background-img {
     min-height: 100%;
   }
