@@ -16,4 +16,9 @@ body {
     font-size: 60px;
     margin: 20 auto;
   }
+  img {
+    max-width: 100%;
+    display: block;
+    margin: 10px auto;
+  }
 }
