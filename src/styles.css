@@ -24,7 +24,11 @@ h2 {
 h3 {
   font-size: 45px;
 }
-
+.background_img {
+  background-repeat: no-repeat;
+  background-image: url("images/31.jpg");
+  background-size: cover;
+}
 @media (max-width: 576px) {
   h1 {
     font-family: "Great Vibes", cursive;
