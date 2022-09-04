@@ -9,3 +9,11 @@ body {
   background-image: url("images/31.jpg");
   background-size: cover;
 }
+
+@media (max-width: 576px) {
+  h1 {
+    font-family: "Great Vibes", cursive;
+    font-size: 60px;
+    margin: 20 auto;
+  }
+}
